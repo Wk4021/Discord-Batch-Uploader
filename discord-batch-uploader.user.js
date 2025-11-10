@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Discord Batch File Uploader
-// @namespace    https://github.com/yourusername/discord-batch-uploader
+// @namespace    https://github.com/Wk4021/Discord-Batch-Uploader
 // @version      1.0.0
 // @description  Automatically batch large file uploads on Discord to avoid size limit errors
-// @author       Your Name
+// @author       AACC
 // @match        https://discord.com/channels/*
 // @match        https://ptb.discord.com/channels/*
 // @match        https://canary.discord.com/channels/*
